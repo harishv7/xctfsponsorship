@@ -1,0 +1,14 @@
+.custom-table {
+	font-size: xx-large !important;
+	text-align: center !important;
+}
+
+.custom-table tr td:first-child {
+	text-align: left !important;
+}
+
+.info {
+	color: white !important;
+	font-size: x-large !important;
+	padding: 15px !important;
+}
